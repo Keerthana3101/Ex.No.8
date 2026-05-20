@@ -1,6 +1,6 @@
 # Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-### Date: 19/05/2026
+### Date: 20/05/2026
 ### Name: Keerthana S
 ### Reg. No: 212223060122
 
